@@ -3,7 +3,7 @@
 ## Install Ruby
 http://rubyinstaller.org/
 
-###Plugins required
+### Plugins required
 
-gem install rspec
-gem install allure-rspec
+- gem install rspec
+- gem install allure-rspec
